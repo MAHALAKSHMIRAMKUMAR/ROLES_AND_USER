@@ -1,6 +1,6 @@
 # ROLES AND USER 
   
- ​[![pypi-version]][pypi] 
+
  ​![​This is an image​](https://img.shields.io/badge/coverage%20-96%25-green) 
   
  ​**Awesome web-browsable Web APIs.** 
@@ -48,8 +48,8 @@
  ​You can now open the API in your browser at ​`http://127.0.0.1:8000/`​. 
   
  ​#​ ​working 
+
+ ​![​This is an image​](https://img.shields.io/badge/coverage%20-96%25-green)
   
   
   
- ​[​pypi-version​]: https://img.shields.io/pypi/v/djangorestframework.svg 
- ​[​pypi​]: https://pypi.org/project/djangorestframework/
