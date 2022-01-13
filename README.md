@@ -48,3 +48,8 @@ You can now open the API in your browser at `http://127.0.0.1:8000/`.
 ​![​This is an image​](IMG/Screenshot%20(1).png)
 
 A image of the homepage
+
+
+![​This is an image​](IMG/Screenshot%20(2).png)
+
+A image of role specification of an user
