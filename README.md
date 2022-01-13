@@ -16,15 +16,15 @@ Full documentation for the project is available at [https://www.django-rest-fram
 
 Insatll using pip..
 
-pip install django
+    pip install django
 
 Cmd to your manage.py folder
 
-pip install -r requirements.txt
+    pip install -r requirements.txt
 
 After that we need migrate
 
-python manage.py makemigrations
+    python manage.py makemigrations
 
 **RUN**
 
