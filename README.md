@@ -1,13 +1,14 @@
-# ROLES and USER 
+# ROLES AND USER 
   
  ​[![pypi-version]][pypi] 
  ​![​This is an image​](https://img.shields.io/badge/coverage%20-96%25-green) 
   
- ​*Awesome web-browsable Web APIs.* 
+ ​**Awesome web-browsable Web APIs.** 
   
  ​Full documentation for the project is available at [​https://www.django-rest-framework.org/​][docs]. 
   
- ​---  
+  ​---  
+ 
  ​#​ ​Requirements 
   
  ​*​ Python (3.6, 3.7, 3.8, 3.9, 3.10) 
@@ -26,13 +27,14 @@
  ​After that we need migrate. 
   
  ​    python manage.py makemigrations    
- ​#​ ​Run 
+ ​#​Run 
   
  ​For the runnig the server 
  ​     
  ​    python manage.py runserver 
   
- ​Terminal: 
+ 
+ **​Terminal:** 
   
  ​    Watching for file changes with StatReloader 
  ​    Performing system checks... 
